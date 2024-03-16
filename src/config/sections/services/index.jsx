@@ -37,23 +37,23 @@ export const servicesConfig = {
   services: [
     {
       title: "Catarata",
-      imageUrl: "/images/image_catarata.jpg",
+      imageUrl: "/image_catarata.jpg",
     },
     {
       title: "Glaucoma",
-      imageUrl: "/images/image_glaucoma.jpg",
+      imageUrl: "/image_glaucoma.jpg",
     },
     {
       title: "Cirurgia Refrativa",
-      imageUrl: "/images/image_cirurgia_refrativa.jpg",
+      imageUrl: "/image_cirurgia_refrativa.jpg",
     },
     {
       title: "Ceratocone",
-      imageUrl: "/images/image_ceratocone.jpg",
+      imageUrl: "/image_ceratocone.jpg",
     },
     {
       title: "Plástica Ocular",
-      imageUrl: "/images/image_plastica_ocular.png",
+      imageUrl: "/image_plastica_ocular.png",
     },
   ],
 };
