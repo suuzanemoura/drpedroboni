@@ -1,4 +1,4 @@
-import Clinica from "@/public/images/image_clinicadrpedroboni.jpg";
+import Clinica from "/image_clinicadrpedroboni.jpg";
 
 export const clinicSectionConfig = {
   id: "clinica",

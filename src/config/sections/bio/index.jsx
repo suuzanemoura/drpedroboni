@@ -1,4 +1,4 @@
-import DrPedroBoni from "/images/image_drpedroboni.jpg";
+import DrPedroBoni from "/image_drpedroboni.jpg";
 
 export const bioSectionConfig = {
   id: "sobre",
