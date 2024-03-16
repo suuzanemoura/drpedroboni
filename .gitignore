@@ -7,10 +7,27 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
 dist
 dist-ssr
 *.local
+
+# testing
+/coverage
+
+# production
+/build
+
+# local env files
+*.env
+.env*.local
+
+# vercel
+.vercel
 
 # Editor directories and files
 .vscode/*
