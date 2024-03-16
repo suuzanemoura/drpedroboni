@@ -8,7 +8,7 @@ import {
 } from "@heroicons/react/20/solid";
 import "animate.css";
 import DisclosureNavbar from "../Disclousure";
-import { navBarConfig } from "../";
+import { navBarConfig } from "../../config/header";
 import { useNavigate } from "react-router-dom";
 import { goToHome } from "../../routes/coordinator";
 import { HashLink } from "react-router-hash-link";

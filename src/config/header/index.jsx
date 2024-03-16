@@ -1,5 +1,5 @@
-import Logo from "/images/image_logo_drpedroboni.png";
-import LogoAzul from "/images/image_logo_drpedroboni_azul.png";
+import Logo from "/image_logo_drpedroboni.png";
+import LogoAzul from "/image_logo_drpedroboni_azul.png";
 
 export const navBarConfig = {
   title: "Dr. Pedro Boni",
