@@ -2,6 +2,8 @@ import Header from "../components/Header";
 import BioSection from "../components/Sections/Bio";
 import HeroSection from "../components/Sections/Hero";
 import ServicesSection from "../components/Sections/Services";
+import YoutubeSection from "../components/Sections/Youtube";
+import { youtubeApiConfig } from "../config/sections/youtube/api";
 
 export default function IndexPage() {
   return (
@@ -11,6 +13,7 @@ export default function IndexPage() {
         <HeroSection />
         <ServicesSection />
         <BioSection />
+        <YoutubeSection apiConfig={youtubeApiConfig} />
       </main>
     </>
   );
