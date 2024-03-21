@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 import BioSection from "../components/Sections/Bio";
 import ClinicSection from "../components/Sections/Clinic";
@@ -22,6 +23,7 @@ export default function IndexPage() {
         <TestimonialSection />
         <InstagramSection apiConfig={instagramApiConfig} />
       </main>
+      <Footer />
     </>
   );
 }

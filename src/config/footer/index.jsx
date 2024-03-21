@@ -1,5 +1,5 @@
 import Logo from "/image_logo_olho_azul.png";
-import Doctoralia from "doctoralia.png";
+import Doctoralia from "/doctoralia.png";
 import {
   DevicePhoneMobileIcon,
   EnvelopeIcon,
