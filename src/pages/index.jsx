@@ -1,5 +1,6 @@
 import Header from "../components/Header";
 import BioSection from "../components/Sections/Bio";
+import ClinicSection from "../components/Sections/Clinic";
 import HeroSection from "../components/Sections/Hero";
 import ServicesSection from "../components/Sections/Services";
 import YoutubeSection from "../components/Sections/Youtube";
@@ -14,6 +15,7 @@ export default function IndexPage() {
         <ServicesSection />
         <BioSection />
         <YoutubeSection apiConfig={youtubeApiConfig} />
+        <ClinicSection />
       </main>
     </>
   );
